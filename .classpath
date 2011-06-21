@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/org.sf.feeling.swt.win32.extension_1.0.5.v20081205.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/postgresql-8.4-701.jdbc4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jxl.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="F:/project/java/target/eclipse-platform-SDK-3.5.1-win32/zh/plugins/com.ibm.icu_4.0.1.v20090822.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jxl"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgres"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/win32Extension"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
